@@ -10,4 +10,4 @@ A demo application demonstrating a reactive api with a small delay
 mvn clean install
 
 ### Run
-java -jar
+java -jar target/file.jar
